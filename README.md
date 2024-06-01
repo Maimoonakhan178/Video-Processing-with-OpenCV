@@ -6,6 +6,7 @@ Before running the script, make sure you have the following installed:
 
 Python 3.x
 OpenCV library (opencv-python)
+
 You can install OpenCV using pip:
 
 
